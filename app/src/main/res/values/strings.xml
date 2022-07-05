@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="helloText">Hello Class!</string>
+    <string name="numberText">Hello</string>
+    <string name="rollButton">ROLL</string>
+
+</resources>
