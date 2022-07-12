@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">helloWorld</string>
     <string name="helloText">Hello Class!</string>
-    <string name="numberText">Hello</string>
+    <string name="numberText">Lets Roll!</string>
     <string name="rollButton">ROLL</string>
+    <string name="rules">Rules</string>
+    <string name="playerName">Name</string>
+    <string name="submit">Submit</string>
+    <string name="editplayerName">Enter Name:</string>
 
 </resources>
